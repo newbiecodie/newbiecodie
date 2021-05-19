@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshita
-- 👀 I’m interested in IoT, Data Analytics and Wireless Communications.
+- 👀 I’m interested in IoT, Data Analytics and Networking.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
